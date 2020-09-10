@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there! My name is Joe Abraham 👋
 
+I am a Software Developer.
 <!--
 **Joe-Abraham/Joe-Abraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
