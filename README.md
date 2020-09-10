@@ -1,12 +1,12 @@
 ### Hi! 👋
 
 
-- 🔭 I’m currently working as a Software Developer on Diagnosis stack of Cars
+- 🔭 I’m currently working as a Software Developer on diagnosis stack of Cars
 - 🌱 I’m learning Machine Learning
 - 👯 I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me: joeabrahamparayil@gmail.com
+- 📫 Reach me at joeabrahamparayil@gmail.com
 
-Stay awesome! 
+# Stay Awesome!
 
 <!--
 **Joe-Abraham/Joe-Abraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
