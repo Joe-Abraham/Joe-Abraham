@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a Software Developer on error handling and on diagnosis stack of vehicles
 - 🌱 I’m learning Machine Learning
 - 👯 I’m looking to collaborate on Machine Learning Projects
-- 📫 Reach me at joeabrahamparayil@gmail.com
+- 📫 Reach me at mail.joeabraham@gmail.com
 
 # Stay Awesome!
 
