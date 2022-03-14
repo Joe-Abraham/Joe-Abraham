@@ -1,9 +1,9 @@
 ### Hi! 👋
 
 
-- 🔭 I’m currently working as a Software Developer on error handling and on diagnosis stack of vehicles
-- 🌱 I’m learning Machine Learning
-- 👯 I’m looking to collaborate on Machine Learning Projects
+- 🔭 I’m currently working as a Senior C++ Developer at Global Payments Inc. Previous to this I was workking as Software Developer on error handling and on diagnosis stack of vehicles at Bosch Global.
+- 🌱 I’m learning Machine Learning, C++ and sensor fusion.
+- 👯 I’m looking to collaborate on cool projects.
 - 📫 Reach me at mail.joeabraham@gmail.com
 
 # Stay Awesome!
